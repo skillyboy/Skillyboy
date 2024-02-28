@@ -1,8 +1,4 @@
-Certainly! Here's a README template for your GitHub profile based on the information provided in our conversation:
-
----
-
-# Welcome to Skillyboy's GitHub Profile! 👋
+# Welcome to my GitHub Profile! 👋
 
 ## About Me
 
