@@ -14,6 +14,4 @@ Hi there! I'm Fakorede Abbas, a passionate full-stack software engineer based in
 
 I'm always open to collaboration and discussing exciting new projects. Feel free to reach out via LinkedIn or email to connect!
 
----
-
-Feel free to customize this template further with additional projects, details, or links as needed. It's a great starting point to showcase your work and connect with others on GitHub!
+-----
