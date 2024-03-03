@@ -15,3 +15,8 @@ Hi there! I'm Fakorede Abbas, a passionate full-stack software engineer based in
 I'm always open to collaboration and discussing exciting new projects. Feel free to reach out via LinkedIn or email to connect!
 
 -----
+ SSS    K  K   III   L          Y   Y
+S       K K     I    L           Y Y 
+ SSS    KK      I    L           Y  
+    S   K K     I    L            Y 
+ SSS    K  K   III   LLLLL        Y  
