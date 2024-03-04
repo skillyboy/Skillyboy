@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Fakorede Abbas, a passionate full-stack software engineer based in Lagos. With over 2 years of experience in software development, I specialize in Python, Django, SQL, and deployemnet platforms like AWS. I'm enthusiastic about leveraging technology to drive positive change, particularly in the energy and utilities sector.
+Hi there! I'm Fakorede Abbas, a passionate full-stack software engineer based in Lagos. With 2 years of experience in software development, I specialize in Python, Django, SQL, and deployemnet platforms like AWS. I'm enthusiastic about leveraging technology to drive positive change, particularly in the energy and utilities sector.
 
 
 ## Contact Me
